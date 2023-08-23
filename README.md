@@ -40,3 +40,10 @@ This is the name of my Github profile; BreePrimmer.
 Here is the link to my GitHub; [github link](https://github.com/BreePrimmer)
 
 If you would like to reach out to me for any questions, you can communicate with me via my email, breempri@gmail.com
+
+## Credits
+I used the links that were provided in the instructions given to me for this project. I also referenced Greg's code briefly for help regarding the testing. Thank you Greg!
+
+I didn't specifically use this video for this project, but this youtube video helped me a lot with understanding OOP. This video is from Traversy Media.
+
+https://www.youtube.com/watch?v=vDJpGenyHaA
