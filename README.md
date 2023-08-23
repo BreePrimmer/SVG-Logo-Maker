@@ -24,7 +24,7 @@ To generate your own SVG, make sure to run npm install to get the required packa
 Here is a sample SVG logo that was created with the program:
 ![SVG image](./images/SVG-logo-sc.JPG)
 
-Click [here]() to watch a video walkthrough for this program.
+Click [here](https://watch.screencastify.com/v/BurAxnSsATqv49JV1XBu) to watch a video walkthrough for this program.
 
 ## Contributing
 
@@ -40,3 +40,10 @@ This is the name of my Github profile; BreePrimmer.
 Here is the link to my GitHub; [github link](https://github.com/BreePrimmer)
 
 If you would like to reach out to me for any questions, you can communicate with me via my email, breempri@gmail.com
+
+## Credits
+I used the links that were provided in the instructions given to me for this project. I also referenced Greg's code briefly for help regarding the testing. Thank you Greg!
+
+I didn't specifically use this video for this project, but this youtube video helped me a lot with understanding OOP. This video is from Traversy Media.
+
+https://www.youtube.com/watch?v=vDJpGenyHaA
